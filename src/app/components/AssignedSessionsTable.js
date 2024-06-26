@@ -6,7 +6,7 @@ const AssignedSessionsTable = ({ assignedSessions }) => (
       Sessions Assignées
     </h2>
     <div className="">
-      <table className="w-full text-sm md:text-lg bg-gray-100 text-black">
+      <table className="w-full text-xs md:text-lg bg-gray-100 text-black">
         <thead>
           <tr>
             <th className="border ">Room ID</th>
