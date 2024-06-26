@@ -1,0 +1,6 @@
+/* tailwind.css */
+
+/* Border radius for tables */
+.rounded-lg {
+  border-radius: 0.5rem;
+}

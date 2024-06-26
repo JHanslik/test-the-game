@@ -1,0 +1,11 @@
+import React from "react";
+import Head from "next/head";
+
+const Header = () => (
+  <Head>
+    <title>Assignation des Gamemasters</title>
+    <link rel="icon" href="/favicon.ico" />
+  </Head>
+);
+
+export default Header;
