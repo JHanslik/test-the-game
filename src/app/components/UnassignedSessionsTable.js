@@ -6,7 +6,7 @@ const UnassignedSessionsTable = ({ unassignedSessions }) => (
       Sessions Non Assignées
     </h2>
     <div className="overflow-x-auto">
-      <table className="table-auto border-collapse w-full bg-gray-100 text-black">
+      <table className="w-full text-xs md:text-lg bg-gray-100 text-black">
         <thead>
           <tr>
             <th className="border p-2">Room ID</th>
